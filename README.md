@@ -35,7 +35,9 @@ $ set FLASK_APP=server.py
 $ export FLASK_ENV=development
 $ flask run
 ```
+## Try It Out Here
 
+```https://mlh-fellow-portfolio.herokuapp.com/ ```
 
 ## Sneak Peek
 
