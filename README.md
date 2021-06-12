@@ -37,7 +37,7 @@ $ flask run
 ```
 ## Try It Out Here
 
-```https://mlh-fellow-portfolio.herokuapp.com/ ```
+<https://mlh-fellow-portfolio.herokuapp.com/>
 
 ## Sneak Peek
 
