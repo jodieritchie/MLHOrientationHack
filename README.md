@@ -34,7 +34,13 @@ $ export FLASK_APP=server.py
 $ export FLASK_ENV=development
 $ flask run
 ```
+## Try It Out Here
 
+<<<<<<< HEAD
+=======
+<https://mlh-fellow-portfolio.herokuapp.com/>
+
+>>>>>>> b89f67deaf8ae19dadcb957830b3fca3d62c9169
 ## Sneak Peek
 
 ![website1](https://user-images.githubusercontent.com/59037626/121733514-95767780-cac1-11eb-9fee-dfd539a05831.PNG)
