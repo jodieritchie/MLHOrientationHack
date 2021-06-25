@@ -35,10 +35,6 @@ $ export FLASK_ENV=development
 $ flask run
 ```
 
-## AWS Deployed w/ SSL Certificate:
-
-https://mlh-portfolio.duckdns.org/
-
 ## Try It Out Here on Heroku:
 
 https://mlh-fellow-portfolio.herokuapp.com/
