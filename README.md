@@ -13,14 +13,14 @@ Make sure you have python3 and pip installed
 Create and activate virtual environment using virtualenv
 
 ```bash
-$ python -m venv python3-virtualenv
+$ python3 -m venv python3-virtualenv
 $ source python3-virtualenv/bin/activate
 ```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all dependencies
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
@@ -34,13 +34,24 @@ $ export FLASK_APP=__init__.py
 $ export FLASK_ENV=development
 $ flask run
 ```
-## Try It Out Here
 
-<<<<<<< HEAD
-=======
-<https://mlh-fellow-portfolio.herokuapp.com/>
+## AWS Deployed w/ SSL Certificate:
 
->>>>>>> b89f67deaf8ae19dadcb957830b3fca3d62c9169
+https://mlh-portfolio.duckdns.org/
+
+## Try It Out Here on Heroku:
+
+https://mlh-fellow-portfolio.herokuapp.com/
+
+
+## Collaborated Project:
+
+https://github.com/jkan2i/MLH-Portfolio_New
+
+## DevPost Project:
+
+https://devpost.com/software/mlh-portfolio-0nhc25
+
 ## Sneak Peek
 
 ![website1](https://user-images.githubusercontent.com/59037626/121733514-95767780-cac1-11eb-9fee-dfd539a05831.PNG)
