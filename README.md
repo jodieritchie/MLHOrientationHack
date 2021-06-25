@@ -30,7 +30,7 @@ Create a .env file using the example.env template
 Start flask development server
 
 ```bash
-$ export FLASK_APP=server.py
+$ export FLASK_APP=__init__.py
 $ export FLASK_ENV=development
 $ flask run
 ```
